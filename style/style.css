@@ -1,0 +1,17 @@
+#login-form{
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+#login-form>div{
+  /*position: absolute;*/
+  text-align: center;
+  background-color: #ddd;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.hidden{
+  display: none;
+}
